@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color: #e0f7fa;
+  min-height: 100vh;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background: #006064;
+  color: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+ul {
+  margin-top: 20px;
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #ffffff;
+  color: #333;
+  margin: 10px auto;
+  padding: 12px 20px;
+  border-radius: 8px;
+  max-width: 500px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
